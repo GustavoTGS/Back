@@ -1,2 +1,1 @@
-# Back
-Back-end projects 
+scripts em c
